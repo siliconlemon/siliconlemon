@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I'm siliconlemon 🍋</h1>
-<p allign="left">But you can call me Ondra 🇨🇿</p>
+<h2 align="left">Hi 👋 I'm siliconlemon 🍋</h1>
+<p allign="left">but you can call me Ondra</p>
 
 | <div align="left">Connect with me</a>&nbsp;</div> | <div align="left">Languages and Tools</div> |
 |-----|-------|
